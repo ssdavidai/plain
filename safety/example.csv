@@ -1,0 +1,584 @@
+Received,senderName,senderEmail,Subject,Body,summary,
+2024-10-02 8:00,Microsoft,noreply@microsoft.com,Update Available,"Dear User,
+
+An important update is available for your software.
+
+Microsoft Support",Microsoft informs you about an important software update.,
+2024-10-02 8:00,Bruce Wayne,bruce.wayne@waynecorp.com,Board Meeting Reminder,"Dear Board Members,
+
+This is a reminder for the board meeting scheduled tomorrow at 9 AM.
+
+Best regards,
+Bruce Wayne",Bruce reminds board members of a meeting at 9 AM tomorrow.,
+2024-10-02 8:15,Facebook,noreply@facebookmail.com,New Message from Lisa,"Hi,
+
+You have a new message from Lisa.
+
+Facebook",Facebook notifies you of a new message from Lisa.,
+2024-10-02 8:15,Gotham Gazette,noreply@gothamgazette.com,Daily News Digest,"Good morning,
+
+Here are today's top stories from Gotham City:
+- Wayne Corporation announces new tech initiative.
+- Mayor declares state of emergency amid rising crime rates.
+- Meteorologists predict heavy rainfall this weekend.
+
+Stay informed,
+Gotham Gazette",Gotham Gazette shares top news stories for the day.,
+2024-10-02 8:30,Anna Kim,anna.kim@example.com,Re: Photos from the Trip,"Hey,
+
+Glad you liked the photos! Let's plan another trip soon.
+
+Best,
+Anna",Anna is happy you liked the photos and suggests another trip.,
+2024-10-02 8:30,WayneTech Newsletter,newsletter@waynetech.com,Innovations in Clean Energy,"Dear Subscriber,
+
+WayneTech is proud to announce breakthroughs in clean energy solutions that will power Gotham City sustainably.
+
+Read more in our latest article.
+
+Sincerely,
+WayneTech Team",WayneTech announces new clean energy innovations.,
+2024-10-02 8:45,Trello,noreply@trello.com,Board Invitation,"Hi,
+
+You've been invited to join the board Marketing Strategies"".",,
+2024-10-02 8:45,Alfred Pennyworth,alfred.pennyworth@wayneestate.com,Dinner Plans,"Master Bruce,
+
+Shall I prepare dinner for two tonight at 7 PM?
+
+Warm regards,
+Alfred",Alfred asks Bruce about dinner preparations.,
+2024-10-02 9:00,John Smith,john.smith@example.com,Meeting Reminder,"Dear Team,
+
+This is a reminder for our meeting scheduled at 2 PM today.
+
+Best regards,
+John",John reminds the team about a meeting at 2 PM today.,
+2024-10-02 9:00,Google,noreply@google.com,Storage Almost Full,"Dear User,
+
+Your Google Drive storage is almost full. Consider upgrading.
+
+Google Drive",Google alerts you that your Drive storage is nearly full.,
+2024-10-02 9:00,Gotham Weather Service,alerts@gothamweather.com,Severe Weather Alert,"Attention,
+
+A severe thunderstorm warning is in effect for Gotham City from 6 PM tonight.
+
+Stay safe,
+Gotham Weather Service",Weather service issues a thunderstorm warning for Gotham City.,
+2024-10-02 9:15,Amazon,noreply@amazon.com,Your Order Has Shipped,"Hello,
+
+Your order #123456 has been shipped and will arrive soon.
+
+Thank you for shopping with us!",Amazon notifies you that your order has shipped.,
+2024-10-02 9:15,Slack,noreply@slack.com,Mentioned in #general,"Hello,
+
+You were mentioned in #general by Mike.
+
+Regards,
+Slack Team",Slack informs you that Mike mentioned you in #general.,
+2024-10-02 9:15,Gotham City Police Dept.,notifications@gcpd.gov,Community Safety Bulletin,"Dear Residents,
+
+Due to recent events, we urge you to stay vigilant and report any suspicious activities.
+
+Thank you,
+Gotham City Police Department",GCPD issues a community safety bulletin.,
+2024-10-02 9:30,LinkedIn,notifications@linkedin.com,You Have 5 New Connection Requests,"Hi,
+
+You have 5 new connection requests waiting for you.
+
+Regards,
+LinkedIn Team",LinkedIn informs you about new connection requests.,
+2024-10-02 9:30,Bank of America,alerts@bankofamerica.com,Deposit Confirmation,"Dear Customer,
+
+A deposit of $1,000 has been made to your account.
+
+Bank of America",Bank confirms a $1,000 deposit to your account.
+2024-10-02 9:30,Lucius Fox,lucius.fox@waynecorp.com,Re: Project Update,"Bruce,
+
+The prototype is ready for your review.
+
+Best,
+Lucius",Lucius informs Bruce that the prototype is ready.,
+2024-10-02 9:45,Sarah Lee,sarah.lee@example.com,Lunch Today?,"Hey,
+
+Are you free for lunch today at 12 PM?
+
+Cheers,
+Sarah",Sarah invites you to lunch at 12 PM.,
+2024-10-02 9:45,Eventbrite,reminders@eventbrite.com,Upcoming Event Reminder,"Hi,
+
+Don't forget about the Tech Conference tomorrow.
+
+See you there,
+Eventbrite",Eventbrite reminds you of an event tomorrow.,
+2024-10-02 9:45,Daily Planet,noreply@dailyplanet.com,World News Update,"Hello,
+
+In today's world news:
+- Peace talks resume in Eastern Europe.
+- Global markets react to new trade agreements.
+- Advances in medical technology offer new hope.
+
+Stay updated,
+Daily Planet",Daily Planet shares global news updates.,
+2024-10-02 10:00,Bank of America,alerts@bankofamerica.com,Account Alert,"Dear Customer,
+
+A withdrawal of $500 was made from your account ending in 1234.
+
+If this wasn't you, please contact us immediately.
+
+Bank of America",Bank alerts you about a $500 withdrawal.,
+2024-10-02 10:00,LinkedIn,notifications@linkedin.com,Congrats on Your Work Anniversary!,"Hello,
+
+Congratulate John on his 5-year work anniversary.
+
+LinkedIn",LinkedIn encourages you to congratulate John.,
+2024-10-02 10:00,Gotham Charity Gala,events@gothamcharity.org,You're Invited: Annual Gala,"Dear Patron,
+
+Join us for the Annual Gotham Charity Gala on October 15th to support local communities.
+
+RSVP Today,
+Gotham Charity Organization",Invitation to the Gotham Charity Gala on October 15th.,
+2024-10-02 10:15,Spotify,newsletter@spotify.com,Your Weekly Playlist,"Hi,
+
+Check out your new weekly playlist tailored just for you.
+
+Enjoy,
+Spotify Team",Spotify shares your personalized weekly playlist.,
+2024-10-02 10:15,Jessica Adams,jessica.adams@example.com,Meeting Rescheduled,"Hi,
+
+Can we reschedule our meeting to Friday?
+
+Cheers,
+Jessica",Jessica requests to reschedule the meeting to Friday.,
+2024-10-02 10:15,Clark Kent,clark.kent@dailyplanet.com,Interview Request,"Hello Mr. Wayne,
+
+I'd like to request an interview regarding WayneCorp's new initiatives.
+
+Best regards,
+Clark Kent",Clark Kent requests an interview with Bruce Wayne.,
+2024-10-02 10:30,Emily Johnson,emily.johnson@example.com,Project Update,"Hello Team,
+
+Please find attached the latest update on the project.
+
+Best,
+Emily",Emily shares an update on the project with attachments.,
+2024-10-02 10:30,Github,noreply@github.com,New Issue Assigned,"Hi,
+
+You've been assigned a new issue in the repository.
+
+GitHub",GitHub notifies you of a new issue assignment.,
+2024-10-02 10:30,Gotham Weather Service,alerts@gothamweather.com,Weather Update,"Attention,
+
+The severe weather warning has been upgraded to a tornado watch until midnight.
+
+Stay indoors,
+Gotham Weather Service",Weather service upgrades warning to a tornado watch.,
+2024-10-02 10:45,Delta Airlines,confirmation@delta.com,Your Upcoming Flight,"Dear Passenger,
+
+This is a reminder of your upcoming flight DL1234 on October 5th.
+
+Safe travels,
+Delta Airlines",Delta reminds you of your flight on October 5th.,
+2024-10-02 10:45,Dropbox,no-reply@dropbox.com,File Deleted,"Hi,
+
+A file has been deleted from your Dropbox.
+
+Dropbox Team",Dropbox informs you about a deleted file.,
+2024-10-02 10:45,Metropolis Times,noreply@metropolistimes.com,Newsletter: Technology in 2024,"Dear Reader,
+
+Explore how technology is shaping our future in this month's feature article.
+
+Enjoy,
+Metropolis Times",Metropolis Times shares an article on future technology.,
+2024-10-02 11:00,Slack,noreply@slack.com,New Direct Message,"Hi,
+
+You have a new direct message from Mark.
+
+Log in to view the message.
+
+Thanks,
+Slack Team",Slack notifies you of a new direct message from Mark.,
+2024-10-02 11:00,Nike,newsletter@nike.com,Exclusive Offer Just for You,"Hey,
+
+Enjoy 20% off your next purchase with code NIKE20.
+
+Just Do It,
+Nike",Nike offers you a 20% discount code.,
+2024-10-02 11:00,Batman Fans,broadcast@batmanfans.com,New Batman Sightings,"Hey Fans,
+
+Latest reports suggest Batman thwarted a robbery last night in downtown Gotham.
+
+Stay tuned,
+Batman Fans Community",Fan newsletter about recent Batman activities.,
+2024-10-02 11:15,Gym Membership,gym@fitnessclub.com,Membership Renewal,"Dear Member,
+
+Your gym membership is due for renewal on October 15th.
+
+Stay fit,
+Fitness Club",Gym informs you about upcoming membership renewal.,
+2024-10-02 11:15,Tom Harris,tom.harris@example.com,Re: Weekend Plans,"Hey,
+
+Yes, the hike is on! See you Saturday morning.
+
+Best,
+Tom",Tom confirms the hiking plans for Saturday.,
+2024-10-02 11:15,Wayne Enterprises Careers,careers@wayneenterprises.com,Job Opportunity: Software Engineer,"Dear Candidate,
+
+We have an opening for a Software Engineer position at Wayne Enterprises.
+
+Apply now,
+HR Team",Wayne Enterprises advertises a job opening.,
+2024-10-02 11:30,Netflix,info@mailer.netflix.com,New Shows Added,"Hello,
+
+We've added new shows we think you'll love.
+
+Happy watching,
+Netflix",Netflix announces new shows added to their platform.,
+2024-10-02 11:30,Hertz Car Rental,feedback@hertz.com,Rate Your Experience,"Dear Customer,
+
+Please take a moment to rate your recent rental experience.
+
+Thank you,
+Hertz",Hertz asks you to rate your rental experience.,
+2024-10-02 11:30,Selina Kyle,selina.kyle@example.com,Lunch Tomorrow?,"Hi Bruce,
+
+Are you free for lunch tomorrow?
+
+Cheers,
+Selina",Selina invites Bruce for lunch.,
+2024-10-02 11:45,David Brown,david.brown@example.com,Re: Budget Report,"Hi,
+
+Thanks for sending the budget report. Looks good!
+
+Best,
+David",David acknowledges receipt of the budget report.,
+2024-10-02 11:45,Zoom,no-reply@zoom.us,Recording Available,"Hi,
+
+The recording of your meeting is now available.
+
+Zoom Team",Zoom notifies you that your meeting recording is ready.,
+2024-10-02 11:45,Gotham City Hall,updates@gothamcity.gov,Community Meeting Announcement,"Dear Residents,
+
+You're invited to attend the community meeting addressing city safety on October 5th.
+
+Regards,
+Gotham City Hall",City Hall announces a community meeting on safety.,
+2024-10-02 12:00,Uber,receipts@uber.com,Your Uber Receipt,"Hi,
+
+Thank you for riding with us. Your total is $15.75.
+
+Uber Team",Uber sends you a receipt for your recent ride.,
+2024-10-02 12:00,Slack,noreply@slack.com,Workspace Invitation,"Hello,
+
+You've been invited to join the workspace Design Team"".",,
+2024-10-02 12:00,International News,noreply@intnews.com,Conflict in Corto Maltese Escalates,"Hello,
+
+Conflict in Corto Maltese intensifies as international forces get involved. Read our in-depth analysis.
+
+Stay informed,
+International News Team",Newsletter about escalating conflict in Corto Maltese.,
+2024-10-02 12:15,Apple,noreply@apple.com,Your Apple ID Verification Code,"Your Apple ID verification code is 123456.
+
+Apple Support",Apple sends a verification code for your Apple ID.,
+2024-10-02 12:15,Linda Martinez,linda.martinez@example.com,Meeting Minutes,"Hi,
+
+Attached are the meeting minutes from today.
+
+Thanks,
+Linda",Linda shares the meeting minutes with an attachment.,
+2024-10-02 12:15,Gotham Gazette,noreply@gothamgazette.com,Special Report: WayneCorp's New CEO,"Good afternoon,
+
+Breaking news: WayneCorp appoints new CEO amid restructuring efforts.
+
+Details inside,
+Gotham Gazette",Gotham Gazette reports on WayneCorp's new CEO.,
+2024-10-02 12:30,HR Department,hr@example.com,Policy Update,"Dear Employees,
+
+Please review the attached company policy updates.
+
+Regards,
+HR Team",HR informs employees about policy updates with attachments.,
+2024-10-02 12:30,Google,noreply@google.com,New Sign-In from Chrome on Windows,"Dear User,
+
+A new sign-in from Chrome on Windows was detected.
+
+Google Security",Google alerts you about a new sign-in from Chrome on Windows.,
+2024-10-02 12:30,Tim Drake,tim.drake@waynecorp.com,Re: Team Project,"Hey team,
+
+I've updated the project files as discussed.
+
+Thanks,
+Tim",Tim informs the team about updates to project files.,
+2024-10-02 12:45,Twitter,noreply@twitter.com,New Login to Your Account,"Hi,
+
+We noticed a new login to your account from a new device.
+
+If this was you, no action is needed.
+
+Twitter Security",Twitter alerts you about a new login to your account.,
+2024-10-02 12:45,Dropbox,no-reply@dropbox.com,New Device Linked,"Hi,
+
+A new device was linked to your Dropbox account.
+
+Dropbox Security",Dropbox notifies you of a new device linked to your account.,
+2024-10-02 12:45,Weather Watch,noreply@weatherwatch.com,Weekly Forecast,"Hello,
+
+This week's forecast:
+- Monday: Sunny
+- Tuesday: Cloudy
+- Wednesday: Rain showers
+- Thursday: Thunderstorms
+- Friday: Clear skies
+
+Stay prepared,
+Weather Watch",Weekly weather forecast newsletter.,
+2024-10-02 13:00,Mark Wilson,mark.wilson@example.com,Coffee Meeting,"Hey,
+
+Want to grab coffee this week to discuss the project?
+
+Let me know,
+Mark",Mark proposes a coffee meeting to discuss the project.,
+2024-10-02 13:00,Netflix,info@mailer.netflix.com,Top Picks for You,"Hello,
+
+Here are top picks we think you'll enjoy.
+
+Happy watching,
+Netflix",Netflix shares top picks based on your viewing history.,
+2024-10-02 13:00,Gotham Gazette,noreply@gothamgazette.com,Opinion: The State of Gotham's Justice,"Dear Readers,
+
+An opinion piece on the current state of justice in Gotham City.
+
+Read more,
+Gotham Gazette Editorial Team",An opinion article on justice in Gotham City.,
+2024-10-02 13:15,Dropbox,no-reply@dropbox.com,Your Dropbox Is Almost Full,"Hi,
+
+Your Dropbox is 95% full. Upgrade your storage today.
+
+Dropbox Team",Dropbox notifies you that your storage is almost full.,
+2024-10-02 13:15,David Brown,david.brown@example.com,Client Feedback,"Hi,
+
+The client loved the proposal. Great work!
+
+Best,
+David",David shares positive client feedback.,
+2024-10-02 13:15,Harvey Dent,harvey.dent@gothamda.gov,Lunch Meeting,"Bruce,
+
+Can we meet for lunch to discuss a potential partnership?
+
+Best,
+Harvey",Harvey Dent requests a lunch meeting with Bruce.,
+2024-10-02 13:30,YouTube,noreply@youtube.com,New Comment on Your Video,"Hello,
+
+Someone commented on your video: Great content!""",,
+2024-10-02 13:30,Uber,receipts@uber.com,Your Uber Eats Order,"Hi,
+
+Your order has been delivered. Enjoy your meal!
+
+Uber Eats Team",Uber Eats confirms your food delivery.,
+2024-10-02 13:30,Wayne Foundation,donations@waynefoundation.org,Thank You for Your Support,"Dear Donor,
+
+Thank you for your generous contribution to the Wayne Foundation.
+
+Sincerely,
+Wayne Foundation Team",Wayne Foundation thanks you for your donation.,
+2024-10-02 13:45,Booking.com,confirmation@booking.com,Your Reservation Confirmation,"Dear Traveler,
+
+Your hotel reservation in Paris is confirmed.
+
+Enjoy your stay,
+Booking.com",Booking.com confirms your hotel reservation in Paris.,
+2024-10-02 13:45,Apple,noreply@apple.com,iCloud Storage Plan,"Dear Customer,
+
+Your iCloud storage plan has been renewed.
+
+Thank you,
+Apple",Apple confirms renewal of your iCloud storage plan.,
+2024-10-02 13:45,International News,noreply@intnews.com,News Digest: Global Events,"Hello,
+
+Today's top international stories:
+- Peace treaty signed in Val Verde.
+- Economic summit concludes with new agreements.
+- Space exploration mission achieves milestone.
+
+Stay updated,
+International News Team",International news digest covering global events.,
+2024-10-02 14:00,Jessica Adams,jessica.adams@example.com,Re: Team Building Activity,"Hi,
+
+I think a cooking class would be a great idea!
+
+Cheers,
+Jessica",Jessica responds with her preference for a team-building activity.,
+2024-10-02 14:00,HR Department,hr@example.com,Annual Leave Policy,"Dear Employees,
+
+Please review the updated annual leave policy.
+
+Regards,
+HR Team",HR shares updates to the annual leave policy.,
+2024-10-02 14:00,Gotham City Library,newsletter@gothamlibrary.com,October Events Calendar,"Dear Patron,
+
+Check out our events for October, including author talks and workshops.
+
+Happy reading,
+Gotham City Library",Library shares its October events calendar.,
+2024-10-02 14:15,GitHub,noreply@github.com,New Pull Request,"Hi,
+
+There's a new pull request awaiting your review.
+
+GitHub",GitHub notifies you of a new pull request.,
+2024-10-02 14:15,Peter Evans,peter.evans@example.com,Project Collaboration,"Hello,
+
+Looking forward to collaborating on the new project.
+
+Best,
+Peter",Peter expresses enthusiasm about the new project collaboration.,
+2024-10-02 14:15,BatSignal Alerts,alerts@gothampd.gov,Unusual Activity Detected,"Attention,
+
+Unusual activity detected in the Narrows district. Stay cautious.
+
+Gotham Police Department",GPD alerts citizens of unusual activity in the Narrows.,
+2024-10-02 14:30,Airbnb,express@airbnb.com,Your Trip to Tokyo,"Konnichiwa,
+
+Your trip to Tokyo is just around the corner!
+
+Safe travels,
+Airbnb",Airbnb reminds you of your upcoming trip to Tokyo.,
+2024-10-02 14:30,Asana,notifications@asana.com,Upcoming Deadline,"Hi,
+
+The deadline for Market Analysis"" is approaching.",,
+2024-10-02 14:30,Metropolis Travel Agency,offers@metropolistravel.com,Explore Exotic Destinations,"Dear Traveler,
+
+Discover the hidden gems of the world with our exclusive packages.
+
+Book now,
+Metropolis Travel Agency",Travel agency promotes exclusive vacation packages.,
+2024-10-02 14:45,PayPal,service@paypal.com,Receipt for Your Payment,"Hello,
+
+You've sent a payment of $250 to TechStore.
+
+Thank you,
+PayPal",PayPal confirms your payment to TechStore.,
+2024-10-02 14:45,Microsoft,noreply@microsoft.com,Security Update Installed,"Dear User,
+
+A security update has been successfully installed.
+
+Microsoft Support",Microsoft confirms a security update installation.,
+2024-10-02 14:45,Lucius Fox,lucius.fox@waynecorp.com,Re: Security Upgrade,"Bruce,
+
+The new security measures have been implemented.
+
+Best,
+Lucius",Lucius confirms implementation of security upgrades.,
+2024-10-02 15:00,Canva,design@canva.com,Your Design Is Ready,"Hi,
+
+Your recent design is saved and ready to share.
+
+Happy designing,
+Canva",Canva informs you that your design is ready.,
+2024-10-02 15:00,Facebook,noreply@facebookmail.com,Event Invitation,"Hi,
+
+You have been invited to Lisa's birthday event.
+
+Facebook",Facebook notifies you of an event invitation.,
+2024-10-02 15:00,Gotham Gazette,noreply@gothamgazette.com,Editorial: The Rise of Vigilantism,"Dear Readers,
+
+An editorial discussing the rise of vigilantism in Gotham City.
+
+Read the full piece,
+Gotham Gazette Editorial Team",Editorial on vigilantism in Gotham.,
+2024-10-02 15:15,Tom Harris,tom.harris@example.com,Weekend Plans,"Hey,
+
+Are we still on for hiking this weekend?
+
+Best,
+Tom",Tom checks in about weekend hiking plans.,
+2024-10-02 15:15,Anna Kim,anna.kim@example.com,Re: Another Trip,"Hey,
+
+Let's plan for the first week of November.
+
+Best,
+Anna",Anna suggests dates for another trip.,
+2024-10-02 15:15,National Weather Service,alerts@weather.gov,Coastal Flood Warning,"Alert,
+
+A coastal flood warning is in effect for the eastern seaboard.
+
+Stay safe,
+National Weather Service",National Weather Service issues a coastal flood warning.,
+2024-10-02 15:30,Hertz Car Rental,confirmation@hertz.com,Car Rental Confirmation,"Dear Customer,
+
+Your car rental for October 10th is confirmed.
+
+Drive safe,
+Hertz",Hertz confirms your car rental booking.,
+2024-10-02 15:30,Trello,noreply@trello.com,Comment on Card,"Hi,
+
+John commented on the card Budget Review"".",,
+2024-10-02 15:30,Diana Prince,diana.prince@example.com,Conference Invitation,"Dear Bruce,
+
+You are cordially invited to speak at the Global Peace Conference.
+
+Warm regards,
+Diana",Diana invites Bruce to speak at a conference.,
+2024-10-02 15:45,Zoom,no-reply@zoom.us,Meeting Invitation,"Hi,
+
+You've been invited to a Zoom meeting starting at 4 PM.
+
+Zoom Team",Zoom sends you a meeting invitation for 4 PM.,
+2024-10-02 15:45,Slack,noreply@slack.com,App Integration Added,"Hello,
+
+The Google Drive app has been added to your workspace.
+
+Regards,
+Slack Team",Slack informs you of a new app integration.,
+2024-10-02 15:45,Gotham Gazette,noreply@gothamgazette.com,Subscriber Exclusive: Inside Wayne Manor,"Dear Subscriber,
+
+Get an exclusive look inside the historic Wayne Manor in our latest feature.
+
+Enjoy,
+Gotham Gazette",Exclusive feature on Wayne Manor for subscribers.,
+2024-10-02 16:00,Slack,noreply@slack.com,Missed Messages,"Hello,
+
+You have unread messages in your Slack workspace.
+
+Regards,
+Slack Team",Slack notifies you of unread messages.,
+2024-10-02 16:00,Bank of America,alerts@bankofamerica.com,Payment Due Reminder,"Dear Customer,
+
+Your credit card payment is due on October 5th.
+
+Bank of America",Bank reminds you of an upcoming credit card payment.,
+2024-10-02 16:00,Alfred Pennyworth,alfred.pennyworth@wayneestate.com,Re: Dinner Plans,"Master Bruce,
+
+Dinner is prepared and will be served at 7 PM.
+
+Warm regards,
+Alfred",Alfred confirms dinner arrangements.,
+2024-10-02 16:15,Linda Martinez,linda.martinez@example.com,Re: Presentation Slides,"Hi,
+
+I've updated the slides as per your feedback.
+
+Thanks,
+Linda",Linda sends updated presentation slides.,
+2024-10-02 16:15,Eventbrite,confirmation@eventbrite.com,Event Cancellation,"Hi,
+
+The event Tech Conference"" has been canceled.",,
+2024-10-02 16:15,Gotham Tech Expo,info@gothamtechexpo.com,Register Now: Tech Innovations 2024,"Hello,
+
+Join us at the Gotham Tech Expo to explore the latest in technology innovations.
+
+Register today,
+Gotham Tech Expo Team",Invitation to register for the Gotham Tech Expo.,
+2024-10-02 16:30,Google,noreply@google.com,Security Alert,"Dear User,
+
+We detected a suspicious sign-in attempt.
+
+Google Security",Google alerts you about a suspicious sign-in attempt.,
+2024-10-02 16:30,LinkedIn,notifications@linkedin.com,New Message from Recruiter,"Hello,
+
+A recruiter has sent you a message.
+
+LinkedIn",LinkedIn notifies you of a message from a recruiter.,
+2024-10-02 16:30,Gotham Gazette,noreply@gothamgazette.com,Sports Update: Gotham Knights Win,"Hello,
+
+The Gotham Knights secured a victory last night. Read the highlights.
+
+Best,
+Gotham Gazette Sports",Sports update on Gotham Knights' win.,

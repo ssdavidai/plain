@@ -57,7 +57,6 @@ h2 {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  min-height: 30vh;
 }
 
 .email-details-summary {
@@ -66,7 +65,7 @@ h2 {
 
 .email-details-full {
   height: auto;
-  min-height: 30vh;
+  
 }
 
 .email-details p {
